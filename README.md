@@ -15,7 +15,7 @@ Modele wykonano w **Blenderze** z wykorzystaniem tekstur fotograficznych oraz ma
 ## 🏗️ Modele budynków
 
 ### Suwalska 6/8
-![Suwalska 6/8](Photos/Suwalska 6, 8.png)
+![Suwalska 6/8](Photos/Suwalska_6__8.png)
 
 Budynek jednorodzinny z czerwoną dachówką ceramiczną. Elewacja ceglana z elementami tynkowanymi. Widoczny garaż z ciemnymi wrotami oraz wejście główne z drewnianymi drzwiami.
 
